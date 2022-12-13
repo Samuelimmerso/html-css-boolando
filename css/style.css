@@ -1,0 +1,31 @@
+/* Css reset */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* Generics */
+header{
+    display: flex;
+    background-color: #FF6800;
+    justify-content: center;
+    align-items: center;
+}
+
+header .content{x
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    color: white;
+    font-family: 'Helvetica';
+    font-weight: bold;
+    margin: 0 10%;
+}
+
+ img{
+    position: relative;
+    width: 20%;
+}
